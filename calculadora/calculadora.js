@@ -11,3 +11,5 @@ function calcular() {
    document.calc.visor.value = resultado.toLocaleString('pt-br')
 }
 
+
+
